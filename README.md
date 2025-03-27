@@ -1,6 +1,6 @@
 # Serial Data GUI Application  
 
-A GUI-based application for serial communication, data visualization, and storage.  
+A windows-based GUI for serial communication, data visualization, and storage.  
 
 ## Overview  
 This application provides a graphical user interface for serial communication, enabling users to:  
@@ -9,4 +9,4 @@ This application provides a graphical user interface for serial communication, e
 - Visualize stored data 
 - View collected data   
 
-The application is built using Python with Tkinter for the GUI, Matplotlib for plotting, and PySerial for serial communication.  
+The application uses Python with Tkinter for the GUI, Matplotlib for plotting, and PySerial for serial communication.  
