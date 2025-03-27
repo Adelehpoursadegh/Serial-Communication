@@ -1,6 +1,6 @@
 # Serial Data GUI Application  
 
-A windows-based GUI for serial communication, data visualization, and storage.  
+A desktop GUI-based application for serial communication, data visualization, and storage.  
 
 ## Overview  
 This application provides a graphical user interface for serial communication, enabling users to:  
