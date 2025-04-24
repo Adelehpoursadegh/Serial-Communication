@@ -3,9 +3,8 @@
 A desktop GUI-based application for serial communication, data visualization, and storage.  
 
 ## Overview  
-This application provides a graphical user interface for serial communication, enabling users to:  
-
-- Communicate with serial devices  
+This application provides a graphical user interface for serial communication under the UART protocol, enabling users to:  
+ 
 - Visualize stored data 
 - View collected data   
 
